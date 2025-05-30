@@ -19,6 +19,6 @@ public class Carro {
         System.out.println("Carro com pisca esquerdo ligado");
 
     void buzinarmoto(){
-        System.out.println("Cala a boca enquanto eu tava expicando");
+        System.out.println("Não te passei a palavra");
     }
 }
